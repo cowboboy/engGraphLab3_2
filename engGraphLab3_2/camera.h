@@ -1,4 +1,4 @@
-#ifndef CAMERA_H
+#ifndef CA#ifndef CAMERA_H
 #define	CAMERA_H
 
 #include "math_3d.h"
